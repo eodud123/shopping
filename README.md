@@ -18,11 +18,11 @@
 	
 	- 우편번호 API
 	
-	- 상품 
+	- 상품과 주문 crud 기능 구현
 	
 	- 이미지 업로드 기능
 	
-	- 주문
+	
 							
 							
 김동주 : 게시판, 페이징, 파일로드와 검색 백엔드 작업.
@@ -42,5 +42,4 @@ Framework : STS 3.9.18.RELEASE
 
 Database : Oracle DB(11XE)
 
-ORM : MYbatis
 
